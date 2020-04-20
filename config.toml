@@ -53,7 +53,7 @@ pygmentscodefencesguesssyntax = true
     name = "Linkedin"
     icon = "fab fa-linkedin fa-2x"
     weight = 3
-    url = "https:www.linkedin.com/in/subindev"
+    url = "https://www.linkedin.com/in/subindev"
 
 # Menu links
 #[[menu.main]]
