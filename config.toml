@@ -1,4 +1,4 @@
-baseurl = "https://subindevd.githun.io"
+baseurl = "/"
 title = "subindev d"
 theme = "hugo-coder"
 languagecode = "en"
